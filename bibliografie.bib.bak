@@ -1,0 +1,25 @@
+@Book{Moore2002,
+  author           = {Moore, David and McCabe, George},
+  date             = {2002},
+  title            = {Introduction to the Practice of Statistics},
+  publisher        = {W. H. Freeman},
+  modificationdate = {2014-01-28T00:00:00},
+  owner            = {jbuy519},
+  qualityassured   = {qualityAssured},
+}
+
+@Article{Walton_2019,
+  author       = {Mark E. Walton and Sebastien Bouret},
+  date         = {2019-02},
+  journaltitle = {Trends in Neurosciences},
+  title        = {What Is the Relationship between Dopamine and Effort?},
+  doi          = {10.1016/j.tins.2018.10.001},
+  number       = {2},
+  pages        = {79--91},
+  volume       = {42},
+  publisher    = {Elsevier {BV}},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
+
+@Comment{jabref-meta: fileDirectoryLatex-Gustavo-Gustavo-PC:C:\\Users\\Gustavo\\Downloads\\rm-2122-paper-rmvaneenoogheverbanck-main;}
